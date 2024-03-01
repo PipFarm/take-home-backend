@@ -6,7 +6,7 @@ Thanks for taking the time to complete this brief take-home assignment. It shoul
 
 The goal of this exercise is to evaluate your backend skills in developing lean microservices in JavaScript (Node.js, ExpressJS, 3rd-party integration, and testing). Feel free to make any assumptions, simplifications, or other changes to the problems - though please state those in your write up when you submit this assignment.
 
-Using Express.js you will create a RESTFUL API to retrieve countries based on its currencies.
+Using Express.js, you will create a RESTFUL API to retrieve countries based on its currencies.
 
 Before getting started, please read this document carefully.
 
@@ -18,13 +18,13 @@ Before getting started, please read this document carefully.
 
 - All endpoints must be behind HTTP Bearer Authentication. Use the following credentials, hardcoding a valid token on the backend: `15479a21-7d3a-4f5c-951d-c4e608d257f9`
 - Code must be tested using the framework of your choice
-- Document design decisions
+- Document your design decisions
 
 ## Example
 
 Input: User sends `currency=usd`;
 
-Output: List of countries using `usd` as oficial currency.
+Output: List of countries using `usd` as official currency.
 
 # What counts?
 
@@ -35,7 +35,7 @@ Output: List of countries using `usd` as oficial currency.
 
 # Submission
 
-Once you're satisfied with what you've built. Publish your test as a public repository on your personal github and send us the link.
+Once you're satisfied with what you've built, publish your test as a public repository on your personal github and send us the link.
 
 Please, avoid mentions to Pipfarm company in your test.
 
