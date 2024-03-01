@@ -22,8 +22,9 @@ Before getting started, please read this document carefully.
 
 ## Example
 
-Input: The user sends `currency=usd`
-Output: List of countries using usd as oficial currency
+Input: User sends `currency=usd`;
+
+Output: List of countries using `usd` as oficial currency.
 
 # What counts?
 
